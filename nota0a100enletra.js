@@ -1,7 +1,7 @@
 {
   const nota = 85;
 
-  // Primero se descarta lo que está fuera del rango 0-100
+  
   if (nota < 0 || nota > 100) {
     console.log("7. Nota inválida");
   } else if (nota >= 90) {
