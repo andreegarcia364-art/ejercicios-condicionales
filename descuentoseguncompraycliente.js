@@ -1,7 +1,7 @@
 {
   const totalCompra = 120000;
-  const esCliente = true; // true o false
-  let descuento = 0;      // porcentaje
+  const esCliente = true; 
+  let descuento = 0;      
 
   if (totalCompra > 100000) {
     if (esCliente) {
