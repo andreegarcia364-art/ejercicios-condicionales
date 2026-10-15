@@ -1,7 +1,7 @@
 {
   const numero = 7;
 
-  // % devuelve el residuo: si al dividir entre 2 sobra 0, es par
+  
   if (numero % 2 === 0) {
     console.log(`3. El ${numero} es par`);
   } else {
